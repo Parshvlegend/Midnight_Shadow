@@ -1,19 +1,3 @@
-# print("Hey,Welcom This is an TO-DO-LIST.")
-# Task = []
-# Quit = "a"
-# num = 1
-# while True:
-#     if Quit != "q":
-#         append_ = input("Enter your list Item :-  ")
-#         Task.append(append_)
-#         Quit = input("To continue 'Any thing' To quit 'q'.  ")
-#     if Quit == "q":
-#         break
-
-# for i in Task:
-#     print({num}, i)
-#     num = num+1
-
 print("Hey, Welcome! This is a TO-DO-LIST.")
 tasks = []
 
